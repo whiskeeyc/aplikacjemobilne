@@ -1,0 +1,7 @@
+Aplikacje są 2, ponieważ na początku myślałem, że to ma być w formie aplikacji 
+z klawiaturą jako przyciski.
+Aplikacja ta jest w pliku App.zip, posiada wszystkie 10 funkcjonalności
+
+Klawiaturę systemową zrobiłem w pliku Keyboard.zip
+Brakuje jej jednego przycisku bo dowiedziałem się o tym 1 dzień przed terminem 
+i nie zdązyłem wszystkich, jest 9/10 przycisków z funkcjonalnościami.
